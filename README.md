@@ -25,7 +25,7 @@ The aim of the EDA conducted was to:​
 
 ## Pearson Correlation and Variable Distributin Plots
 ![](1.jpg)
-
+![](2.jpg)
 ## Attributes Distinction, Null Values and Cardinality
 
 ## Variables Statistics and Number of Null and Distinct Values
