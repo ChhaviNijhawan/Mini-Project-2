@@ -24,6 +24,7 @@ The aim of the EDA conducted was to:​
 7. Evaluating model accuracy and performance
 
 ## Pearson Correlation and Variable Distributin Plots
+![](1.jpg)
 
 ## Attributes Distinction, Null Values and Cardinality
 
