@@ -12,7 +12,7 @@ Rows: 411,89​
 Columns: 20​
 Time Range: May 2008 – November 2010
 
-## How to recreate the analysis that we have
+## How to recreate the analysis that we have:
 1. Make sure the system or environemnt is pyspark supported 
 2. Run the code file (Spark Project.ipynb) 
 3. Input the Data File: XYZ_Bank_Deposit_Data_Classification.csv
@@ -22,22 +22,23 @@ Time Range: May 2008 – November 2010
 The aim of the EDA conducted was to:​
 1. Identify relationships between variables​
 2. Variable distribution analysis​
-3. Distinguishing between categorical and numerical attributes​
+3. Distinguish between categorical and numerical attributes​
 4. Null values identification​
-5. Cardinality for the categorical variables​
-6. Statistics for numeric variables.
-7. Evaluating model accuracy and performance
+5. Evaluating cardinality for the categorical variables​
+6. Evaluating summary statistics for numeric variables​
+7. Evaluating number of distinct and null values for attributes
+8. Evaluating model accuracy and performance
 
-## Pearson Correlation and Variable Distributin Plots
+## Pearson Correlation and Variable Distributin Plots:
 ![](1.jpg)
 ![](2.jpg)
-## Attributes Distinction, Null Values and Cardinality
+## Attributes Distinction, Null Values and Cardinality:
 ![](3.jpg)
 ![](4.jpg)
 ![](5.jpg)
-## Variables Statistics and Number of Null and Distinct Values
+## Variables Statistics and Number of Null and Distinct Values:
 ![](6.jpg)
-## Prective Models 
+## Prective Models:
 1. Logistic Regression​
 2. Decision Tree​
 3. Random Forest ​
@@ -45,49 +46,49 @@ The aim of the EDA conducted was to:​
 5. K-Means​
 6. Linear SVC 
 
-## Logistic Regression results
+## Logistic Regression Results:
 Accuracy: 91.005%
 Testing Area Under ROC: 93.68%
 
 ![](8.jpg)
 ![](7.jpg)
 
-## Decision tree Results
+## Decision Tree Results:
 Accuracy: 91.43%
 Testing Area Under ROC: 74.96%
 
 ![](9.jpg)
 
-## Random Forest Results
+## Random Forest Results:
 Accuracy: 90.16%
 Testing Area under ROC: 92.12%
 
 ![](10.jpg)
 
-## Gradient Boosting Tree Results
+## Gradient Boosting Tree Results:
 Testing Area under ROC: 93.67%
 
 ![](11.jpg)
 
-## K-MEANS Clustering
+## K-MEANS Clustering:
 Accuracy: 81.27%
 Test Area under ROC: 92.12%
 
 ![](12.jpg)
 
-## Linear SVC
+## Linear SVC:
 Accuracy: 90.40%
 Test Area under ROC: 92.63%
 
 ![](13.jpg)
 
-## Best model evaluation
+## Best Model Evaluation:
 Logistic Regression comes out to be the best performing model amongst all
 
 ![](15.jpg)
 ![](14.jpg)
 
-## Prescriptive Recommendations
+## Prescriptive Recommendations:
 
 1. Offer more ads to the people that were correctly predicted to subscribe for term deposits​
 Example:  send frequent e-mails, text messages etc.
@@ -95,7 +96,7 @@ Example:  send frequent e-mails, text messages etc.
 3. With people who are correctly predicted to not come and use the term deposits, ask them in a questionnaire what could be improved to get their business. 
 4. Use social media to push a campaign for the term deposits to broaden the scope of potential clients/customers. 
 
-## Conclusion
+## Conclusion:
 
 1. High values for AUC for almost all models
 2. Logistic Regression leads amongst all the models
