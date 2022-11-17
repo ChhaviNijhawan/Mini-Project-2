@@ -1,6 +1,6 @@
 # Mini-Project-2
 
-The Team: 
+##The Team: 
 Chhavi Nijhawan, Anuj Pratap Singh, Kumar Yash, and Hayden Myers.
 
 Problem Statment: 
