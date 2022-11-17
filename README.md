@@ -44,8 +44,8 @@ The aim of the EDA conducted was to:​
 Accuracy: 91.005%
 Testing Area Under ROC: 93.68%
 
-![](7.jpg)
 ![](8.jpg)
+![](7.jpg)
 
 ## Decision tree Results
 Accuracy: 91.43%
@@ -73,10 +73,12 @@ Test Area under ROC: 92.12%
 ## Linear SVC
 Accuracy: 90.40%
 Test Area under ROC: 92.63%
+
 ![](13.jpg)
 
 ## Best model evaluation
-Logistic Regression comes out to be the best performing model amongst all.
+Logistic Regression comes out to be the best performing model amongst all
+
 ![](14.jpg)
 ![](15.jpg)
 
