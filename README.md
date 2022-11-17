@@ -22,11 +22,12 @@ Time Range: May 2008 – November 2010
 The aim of the EDA conducted was to:​
 1. Identify relationships between variables​
 2. Variable distribution analysis​
-3. Distinguishing between categorical and numerical attributes​
+3. Distinguish between categorical and numerical attributes​
 4. Null values identification​
-5. Cardinality for the categorical variables​
-6. Statistics for numeric variables.
-7. Evaluating model accuracy and performance
+5. Evaluating cardinality for the categorical variables​
+6. Evaluating summary statistics for numeric variables​
+7. Evaluating number of distinct and null values for attributes​
+8. Evaluating model accuracy and performance
 
 ## Pearson Correlation and Variable Distributin Plots
 ![](1.jpg)
