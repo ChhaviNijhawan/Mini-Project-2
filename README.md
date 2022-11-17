@@ -79,8 +79,8 @@ Test Area under ROC: 92.63%
 ## Best model evaluation
 Logistic Regression comes out to be the best performing model amongst all
 
-![](14.jpg)
 ![](15.jpg)
+![](14.jpg)
 
 ## Prescriptive Recommendations
 
