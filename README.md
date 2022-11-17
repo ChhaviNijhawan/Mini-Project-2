@@ -3,17 +3,17 @@
 ## The Team: 
 Chhavi Nijhawan, Anuj Pratap Singh, Kumar Yash, and Hayden Myers.
 
-Problem Statment: 
+## Problem Statment: 
 Identification of clients who will subscribe for a term deposit through classification.
 
-The Data:
+## The Data:
 Dataset: XYZ_Bank_Deposit_Data_Classification.csv​
 Rows: 411,89​
 Columns: 20​
 Time Range: May 2008 – November 2010
 
 
-Exploratory Data Analysis:
+## Exploratory Data Analysis:
 The aim of the EDA conducted was to:​
 1. Identify relationships between variables​
 2. Variable distribution analysis​
