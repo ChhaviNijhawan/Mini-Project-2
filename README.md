@@ -12,6 +12,12 @@ Rows: 411,89​
 Columns: 20​
 Time Range: May 2008 – November 2010
 
+## Project Summary Readme
+How to recreate the analysis that we have
+1. Make sure the system or environemnt is pyspark supported 
+2. Run the code file (Spark Project.ipynb) 
+3. Input the Data File: XYZ_Bank_Deposit_Data_Classification.csv
+
 
 ## Exploratory Data Analysis:
 The aim of the EDA conducted was to:​
