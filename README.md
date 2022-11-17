@@ -27,9 +27,11 @@ The aim of the EDA conducted was to:​
 ![](1.jpg)
 ![](2.jpg)
 ## Attributes Distinction, Null Values and Cardinality
-
+![](3.jpg)
+![](4.jpg)
+![](5.jpg)
 ## Variables Statistics and Number of Null and Distinct Values
-
+![](6.jpg)
 ## Prective Models 
 1. Logistic Regression​
 2. Decision Tree​
@@ -39,18 +41,44 @@ The aim of the EDA conducted was to:​
 6. Linear SVC 
 
 ## Logistic Regression results
+Accuracy: 91.005%
+Testing Area Under ROC: 93.68%
+
+![](7.jpg)
+![](8.jpg)
 
 ## Decision tree Results
+Accuracy: 91.43%
+Testing Area Under ROC: 74.96%
+
+![](9.jpg)
 
 ## Random Forest Results
+Accuracy: 90.16%
+Testing Area under ROC: 92.12%
+
+![](10.jpg)
 
 ## Gradient Boosting Tree Results
+Testing Area under ROC: 93.67%
+
+![](11.jpg)
 
 ## K-MEANS Clustering
+Accuracy: 81.27%
+Test Area under ROC: 92.12%
+
+![](12.jpg)
 
 ## Linear SVC
+Accuracy: 90.40%
+Test Area under ROC: 92.63%
+![](13.jpg)
 
 ## Best model evaluation
+Logistic Regression comes out to be the best performing model amongst all.
+![](14.jpg)
+![](15.jpg)
 
 ## Prescriptive Recommendations
 
